@@ -1,0 +1,4 @@
+name: mcbe-resource-pack
+display_name: Minecraft BE Resource Pack
+short_description: Develop Minecraft Bedrock Edition resource packs with entity definitions, Molang, animations, geometry, and more.
+default_prompt: Build a Minecraft Bedrock Edition resource pack for a custom entity. Include the client entity definition, geometry model, texture, animations, animation controller, and render controller. All files should follow the standard MCBE resource pack structure.
